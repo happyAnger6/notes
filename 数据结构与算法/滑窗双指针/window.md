@@ -6,6 +6,8 @@
 4. [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)
 5. [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 6. [将x减到0的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero/)
+7. [209.长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
+8. [560.和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 
 ## 链表中的双指针
 
